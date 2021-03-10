@@ -1,0 +1,6 @@
+name: TheBestPlugin
+version: ${project.version}
+main: me.superorca.thebestplugin.TheBestPlugin
+api-version: 1.16
+authors: [SuperOrca]
+description: The best plugin.
