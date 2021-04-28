@@ -7,6 +7,6 @@ public final class TheBestPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        Bukkit.dispatchCommand(Bukkit.getConsoleSender(), "stop");
+        Bukkit.shutdown();
     }
 }
